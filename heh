@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+<head>
+  
+  <meta charset="utf-8">
+
+  <title>Identity V Official Website</title>
+	<meta name="from" content="git:IDV/idv-en-pc-gw-20180507">
+  <meta name="keywords" content="Identity5, IdentityV, DBD, dead by daylight, mobile game, asymmetric, survival, horror, online multiplayer, Hunter, Survivor, Emily Dyer the Doctor,Lucky Dog the unknown, Emma Woods the Gardener, Freddy Riley the Lawyer,Kreacher Pierson the Thief, Factory Head,Smiley Face the Joker, Deer Head Bane, escape, capture, torture, survival horror game,1vs4 gameplay, detective, mysterious storyline, mysterious plot, 1vs4 asymmetrical combats, Multiplayer, asymmetrical horror game, horror film, scaring film">
+  <meta name="description" content="Identity V is NetEase’s first survival horror game. With a gothic art style, mysterious storylines and an exciting 1vs4 gameplay, the game will bring you a breathtaking experience. You will first enter the game as a detective, who has received a mysterious invitation letter. The letter asks you to go to an abandoned manor and search for a missing girl. During the investigation process, you will have to gain clues by playing either the Hunter or the Survivor. And as you get closer and closer to the truth, you find something horrifying...">
+
+  <!--项目meta信息，请编辑提供 start-->
+  <meta name="author" content="网易，NetEase Inc.">
+  <meta name="copyright" content="网易，NetEase Inc.">
+  <meta name="pmid" content="">
+  <meta name="editor" content="">
+  <meta name="designer" content="">
+  <meta name="front-end technicist" content="">
+  <!--项目meta信息，请编辑提供 end-->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="renderer" content="webkit|ie-comp|ie-stand">
+  <meta name="renderer" content="webkit">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="format-detection" content="address=no">
+
+  <link rel="dns-prefetch" href="http://res.nie.netease.com">
+
+  <link rel="stylesheet" href="https://idv.res.netease.com/pc/gw/20180507141743/css/index_498bd5b.css">
+  <!--[if lt IE 9]>
+  <script src="https://nie.res.netease.com/comm/html5/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body id="tpl">
+  <!--[if lt IE 7]>
+  <div style="position:absolute;z-index:9999999;left:0;top:0;width:100%;height:50rem;background:rgb(255,255,233);color:rgb(30,84,148);border-bottom:1rem solid rgb(230,230,198);text-align:center;line-height:50rem;font-size:12rem;">您使用的浏览器版本过低，可能会影响到您浏览本网页，建议您升级您的浏览器。</div>
+  <![endif]-->
+
+  <!-- <div id="NIE-topBar"></div> -->
+
+  <!-- pc跳转到移动 -->
+  <script data-fixed="true">!function(){function o(o,e){var i=new RegExp("(?:&|/?)"+e+"=([^&$]+)").exec(o);return i?i[1]:""}1==/iphone|ios|android|ipod/i.test(navigator.userAgent.toLowerCase())&&"mobile"!=o(location.search,"from")&&(location.href="http://idv.163.com/m/index.html")}();</script>
+  <div class="top">
+    <ul class="menu">
+      <li class="main item active">
+        <a href="javascript:;" title="main"></a>
+      </li>
+      <li class="bd item">
+        <a href="//idv.163.com/background/index.html" title="background"></a>
+      </li>
+      <li class="character item">
+        <a href="//idv.163.com/character/index.html" title="character"></a>
+      </li>
+      <li class="pre item">
+        <a href="//idv.163.com/preregistration/index.html" title="pre-registeration"></a>
+      </li>
+      <li class="coa">
+        <a href="//idv.163.com/coa2/index.html" title="coa"></a>
+      </li>
+    </ul>
+    <div class="current">
+      <a href="//www.facebook.com/IdentityV/" class="fb" title="facebook" target="_blank">
+      <a href="//www.youtube.com/channel/UC1FRTIuM6_dGdGcpJU81U-g" class="yt" title="youTube" target="_blank"></a>
+      <a href="//twitter.com/GameIdentityV" class="tw" title="twitter" target="_blank"></a>
+      <a href="//discord.gg/identityv" class="dis" title="discord" target="_blank"></a>
+      <a href="//www.instagram.com/identityv/ " class="ins" title="instagram" target="_blank"></a>
+      <a href="//idv.16163.com/" class="talk" title="forum" target="_blank"></a>
+    </a></div>
+  </div>
+  <div class="wrapper">
+    <div class="openNow">
+      <div class="start"></div>
+      <span class="bold"></span>
+      <div class="qunzu"></div>
+      <div class="btn">
+          <span class="logo"></span>
+          <div id="nie-download" class="nie-download" pub-name="idv" data-download="idv|gw">
+             <div class="buttons">
+                <a class="link-apple NIE-button-ios" href="https://app.appsflyer.com/id1347780764?pid=officialwebg&c=1" title="ios">App Store</a>
+                <a class="link-android NIE-button-android" href="https://app.appsflyer.com/com.netease.idv.googleplay?pid=officialwebg&c=1" title="google">googlePlay</a>
+             </div>
+            <div class="NIE-qrcode">
+              <a href="javascript:void(0)" class="sqcode">二维码
+                <img src="https://idv.res.netease.com/pc/gw/20180507141743/img/sqCode_7b0a48f.png" alt="sqCode">
+              </a>
+              <a href="https://h55na.gdl.netease.com/identityv_setup_release_oversea_0505.exe" class="down">PC下载
+                <img src="https://idv.res.netease.com/pc/gw/20180507141743/img/dow_pc_7da2a8a.png" alt="download">
+              </a>
+            </div>
+          </div>
+          <span class="slogan"></span>
+          <span class="audioCtr"></span>
+      </div>
+    </div>
+    <div class="content">
+      <div class="first">
+        <span class="cao"></span>
+        <span class="pic"></span>
+        <span class="hushi"></span>
+        <span class="kaitang"></span>
+        <span class="slogan1"></span>
+        <span class="slogan2"></span>
+        <span class="subTitle"></span>
+      </div>
+      <div class="second">
+        <span class="rectangle1"></span>
+        <span class="rectangle2"></span>
+        <span class="pic"></span>
+        <span class="xiaochou"></span>
+        <span class="subTitle"></span>
+        <span class="title"></span>
+      </div>
+      <div class="third">
+        <span class="xiangkuang"></span>
+        <span class="lvshi"></span>
+        <span class="yangpi"></span>
+        <span class="pic"></span>
+        <span class="subTitle"></span>
+        <span class="title"></span>
+      </div>
+      <div class="forth">
+        <spn class="pic"></spn>
+        <span class="ditu"></span>
+        <span class="dingzi"></span>
+        <span class="subTitle"></span>
+        <span class="slogan1"></span>
+        <span class="slogan2"></span>
+        <span class="yuanding"></span>
+      </div>
+    </div>
+    <audio src="https://idv.res.netease.com/pc/gw/20180507141743/data/bgm.mp3" id="myAudio" autoplay="autoplay" loop="true" controls></audio>
+  </div>
+
+  <!-- <div id="NIE-copyRight"></div> -->
+
+  <script src="https://nie.res.netease.com/comm/js/jquery(mixNIE).1.11.js"></script>
+  <!-- <script>nie.config.copyRight.setWhite();</script> -->
+
+  <script src="https://idv.res.netease.com/pc/gw/20180507141743/js/common/common_2990111.js"></script>
+  <script src="https://idv.res.netease.com/pc/gw/20180507141743/js/app/index_5eb8219.js"></script>
+
+</body>
+</html>
+
+<!--This is Git Project From IDV/idv-en-pc-gw-20180507(8797)-->
